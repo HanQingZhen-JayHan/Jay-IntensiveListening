@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">精听</string>
+    <string name="message_seekbar" translatable="false">设置 max %d 秒</string>
+    <string name="title_activity_test" translatable="false">测试</string>
+    <string name="title_select" translatable="false">选择音频文件</string>
+    <string name="title_home" translatable="false">精 听</string>
+    <string name="title_share" translatable="false">只为提升您的英语听力</string>
+    <string name="text_current_path" translatable="false">当前路径：%s</string>
+    <string name="text_share_description" translatable="false">精听APP \n截图分享到QQ、微信、朋友圈，\n快进快退1s～15s、语速0.5x~2.0x可调，\n扫码下载apk，听力飞速提升。</string>
+    <!--btn-->
+    <string name="btn_yes" translatable="false">删除</string>
+    <string name="btn_no" translatable="false">取消</string>
+    <string name="btn_title" translatable="false">删除: %s</string>
+</resources>

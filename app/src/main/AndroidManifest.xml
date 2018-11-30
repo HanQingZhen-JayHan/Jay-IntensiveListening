@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.jay.android">
+
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:name=".base.MyApplication"
+        android:allowBackup="false"
+        android:icon="@mipmap/logo_intensive_listening"
+        android:label="@string/app_name"
+        android:launchMode="singleTop"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <activity
+            android:name=".pages.home.HomeActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".pages.select.SelectAudioFileActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pages.audio.AudioPlayActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".pages.share.ShareActivity"
+            android:launchMode="singleTop"
+            android:screenOrientation="portrait" />
+
+        <!-- <activity -->
+        <!-- android:name=".pages.test.TestActivity" -->
+        <!-- android:label="@string/title_activity_test" -->
+        <!-- android:theme="@style/AppTheme.NoActionBar"></activity> -->
+
+        <meta-data
+            android:name="channel"
+            android:value="test" />
+    </application>
+
+</manifest>

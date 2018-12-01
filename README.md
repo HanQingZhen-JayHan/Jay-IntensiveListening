@@ -14,12 +14,12 @@ This is a concise and grace app which focus on listening. It operates friendly a
 
 4)Aduio validity check
 
+Screenshots
+-------------
 
-![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1957064944.jpg){:height="50%" width="50%"}
-![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1002828097.jpg)
-
-![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1403227013.jpg)
-![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1678014421.jpg)
-
-![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1400622038.jpg)
-![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/266001124.jpg)
+<img src="screenshots/1957064944.jpg" height="400" alt="Screenshot"/> 
+<img src="screenshots/1002828097.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/1403227013.jpg" height="400" alt="Screenshot"/> 
+<img src="screenshots/1678014421.jpg" height="400" alt="Screenshot"/> 
+<img src="screenshots/1400622038.jpg" height="400" alt="Screenshot"/> 
+<img src="screenshots/266001124.jpg" height="400" alt="Screenshot"/> 

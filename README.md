@@ -7,7 +7,10 @@ This is a concise and grace app which focus on listening. It operates friendly a
 
 ### 3.Functions:
 1)Available speed rate  [0.5x, 0.8x, 1.0x, 1.2x, 1.6x, 2.0x]
+
 2)Available skip divide [1s, 3s, 5s, 7s, 10s, 15s]
+
+3)Persistent audio list
 
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1957064944.jpg)
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1002828097.jpg)

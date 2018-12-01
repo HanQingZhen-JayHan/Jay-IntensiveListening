@@ -14,8 +14,8 @@ This is a concise and grace app which focus on listening. It operates friendly a
 
 4)Aduio validity check
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png | width=100)
-![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1957064944.jpg | width=100)
+
+![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1957064944.jpg){:height="50%" width="50%"}
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1002828097.jpg)
 
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1403227013.jpg)

@@ -1,5 +1,14 @@
 # IntensiveLisenting
+## Google Play:
 https://play.google.com/store/apps/details?id=com.james.mediaplayer
+
+### Description
+This is a concise and grace app which focus on listening. It operates friendly and directly without any redundancy actions. It is a tiny and full functional tool which offers selecting speed rate from 0.5x to 2.0x that is much useful for listening beginner.
+
+### Functions:
+#### 1.Speed rate  [0.5x, 0.8x, 1.0x, 1.2x, 1.6x, 2.0x]
+#### 2.Skip divide [1s, 3s, 5s, 7s, 10s, 15s]
+#### 3.Restore audio list
 
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1957064944.jpg)
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1002828097.jpg)

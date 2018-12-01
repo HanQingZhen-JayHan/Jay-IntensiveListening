@@ -12,6 +12,8 @@ This is a concise and grace app which focus on listening. It operates friendly a
 
 3)Persistent audio list
 
+4)Aduio validity check
+
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1957064944.jpg)
 ![alt text](https://github.com/Jay-QingzhenHan/Jay-IntensiveListening/blob/master/screenshots/1002828097.jpg)
 

@@ -19,4 +19,4 @@ Screenshots
 
 <img src="screenshots/1957064944.jpg" height="600" alt="Screenshot"/> <img src="screenshots/1002828097.jpg" height="600" alt="Screenshot"/>
 <img src="screenshots/1403227013.jpg" height="600" alt="Screenshot"/> <img src="screenshots/1678014421.jpg" height="600" alt="Screenshot"/> 
-<img src="screenshots/1400622038.jpg" height="600" alt="Screenshot"/> <img src="screenshots/266001124.jpg" height="600" alt="Screenshot"/> 
+<img src="screenshots/266001124.jpg" height="600" alt="Screenshot"/> 
